@@ -8,7 +8,7 @@
 * 
 *  Name: Devon Connelly Student ID: 105322218 Date: Apr 12 2024
 *
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://the-met-jet.vercel.app
 *
 ********************************************************************************/ 
 
